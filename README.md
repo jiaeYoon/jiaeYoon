@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f74366&height=180&section=header&text=Hi!%20I'm%20Jiae!&fontSize=40&fontColor=FFFFFF&fontAlignY=35)
 
+<div align="center">
 <h3 align="center">👋 About Me 👋</h3>
 <p align="center">
   <b>Backend Developer</b> 👩‍💻 <br>
@@ -24,6 +25,11 @@
   <a href="https://markme-inur.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://markme-inur.tistory.com"/></a>&nbsp
   <a href="mailto:yoon529@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yoon529@sookmyung.ac.kr"/></a>
 </p>
+
+#
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaeYoon)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **jiaeYoon/jiaeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
