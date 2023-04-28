@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f74366&height=180&section=header&text=Hi!%20I'm%20Jiae!&fontSize=40&fontColor=FFFFFF&fontAlignY=35)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=f74366&height=180&section=header&text=Hi!%20I'm%20Jiae!&fontSize=40&fontColor=FFFFFF&fontAlignY=35&margin=0)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:FCB4C2,100:FA879D&height=160&section=header&text=Hi!%20I'm%20Jiae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)-->
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:05C76A,100:36D287&height=160&section=header&text=Hi!%20I'm%20Jiae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <div align="center">
-<h3 align="center">👋 About Me 👋</h3>
+<h3 align="center">👋 About Me 👋</h1>
 <p align="center">
   <b>Backend Developer</b> 👩‍💻 <br>
   <b> I'm majoring in IT Engineering</b>
@@ -26,10 +28,9 @@
   <a href="mailto:yoon529@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yoon529@sookmyung.ac.kr"/></a>
 </p>
 
-#
-
+<!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaeYoon)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div>-->
 
 <!--
 **jiaeYoon/jiaeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
