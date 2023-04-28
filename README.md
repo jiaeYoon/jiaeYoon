@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f74366&height=250&section=header&text=Hi!%20I'm%20Jiae!&fontSize=90&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f74366&height=180&section=header&text=Hi!%20I'm%20Jiae!&fontSize=40&fontColor=FFFFFF&fontAlignY=35)
 
 <h3 align="center">👋 About Me 👋</h3>
 <p align="center">
