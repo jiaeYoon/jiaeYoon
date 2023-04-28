@@ -4,10 +4,10 @@
 <p>
   🚀 Majoring in IT Engineering, at Sookmyung Women's University.</br>
   👀 Interested in <b>Spring, Node.js, Database Administration.</b></br></br>
-  I enjoy riding a skateboard, playing basketball and watching movies.🏀🛹</br></br>
+  I enjoy riding a skateboard, playing basketball and watching movies.🏀🛹</br>
 </p>
 
-<h4>💪Skills</h4>
+<h3>💪Skills</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
 </p>
 
-<h4>✨ About Me </h4>
+<h3>✨ About Me </h4>
 <p>
   <a href="https://markme-inur.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://markme-inur.tistory.com"/></a>&nbsp
   <a href="mailto:yoon529@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yoon529@sookmyung.ac.kr"/></a>
