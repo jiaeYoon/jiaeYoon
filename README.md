@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=f74366&height=180&section=header&text=Hi!%20I'm%20Jiae!&fontSize=40&fontColor=FFFFFF&fontAlignY=35&margin=0)
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:FCB4C2,100:FA879D&height=160&section=header&text=Hi!%20I'm%20Jiae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:05C76A,100:36D287&height=160&section=header&text=Hi!%20I'm%20Jiae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:05C76A,100:36D287&height=160&section=header&text=Hi!%20I'm%20Jiae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)-->
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:FCB4C2,100:FA879D&height=160&section=header&text=Hi!%20I'm%20Jiae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <div align="center">
 <h3 align="center">👋 About Me 👋</h1>
